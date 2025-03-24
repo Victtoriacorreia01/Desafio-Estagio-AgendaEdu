@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
-import TaskCard from "../components/TaskCard";
-import Header from "../components/Header";
+import TaskCard from "../../components/TaskCard/TaskCard";
+import Header from "../../components/Header/Header";
 
 const HomePage = () => {
   const [tasks, setTasks] = useState([

@@ -1,6 +1,6 @@
 import React from "react";
-import iconone from "../assets/icons8-selecionado-50 (1).png";
-import icontwo from "../assets/icons8-editar-50.png";
+import iconone from "../../assets/icons8-selecionado-50 (1).png";
+import icontwo from "../../assets/icons8-editar-50.png";
 
 const TaskCard = ({ task, onStart, onComplete }) => {
   return (
