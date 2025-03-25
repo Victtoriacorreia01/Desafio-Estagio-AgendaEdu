@@ -6,15 +6,15 @@ const HomePage = () => {
   const [tasks, setTasks] = useState([
     { 
       id: 1, 
-      title: "Paginas 54 e 55 Matematica I", 
+      title: "Páginas 54 e 55 Matemática I", 
       deadline: "2025-03-25", 
       status: "Em andamento",
       professor: "João Silva",
-      subject: "Matemática Discreta"
+      subject: "Matemática I"
     },
     { 
       id: 2, 
-      title: "Paginas 30/31/32 Física II ", 
+      title: "Páginas 30/31/32 Física II ", 
       deadline: "2025-03-26", 
       status: "Pendente",
       professor: "Maria Oliveira",
@@ -22,7 +22,7 @@ const HomePage = () => {
     },
     { 
       id: 3, 
-      title: "Trabalho de Historia (2 Guerra Mundial)", 
+      title: "Trabalho de História (2 Guerra Mundial)", 
       deadline: "2025-03-20", 
       status: "Concluído",
       professor: "Carlos Pereira",
@@ -30,7 +30,7 @@ const HomePage = () => {
     },
     { 
       id: 4, 
-      title: "Pagina 50 Biologia ", 
+      title: "Página 50 Biologia ", 
       deadline: "2025-03-23", 
       status: "Pendente",
       professor: "Daniela Pinheiro",
