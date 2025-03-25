@@ -16,16 +16,16 @@ Este projeto é um **Painel de Acompanhamento de Tarefas**, desenvolvido em **Re
 - **React Hooks**: `useState`, `useEffect` para gerenciar o estado e os ciclos de vida da aplicação de forma eficiente.
 - **Notificações Visuais**: Utilização de estados dinâmicos no React para alertar o usuário sobre tarefas com prazos próximos.
 
-Instalação
+## Instalação
 Siga os passos abaixo para rodar o projeto em seu ambiente local:
 
-Clone o repositório:
+- **Clone o repositório**:
 (git clone https://github.com/Victtoriacorreia01/Desafio-Estagio-AgendaEdu)
-Navegue até o diretório do projeto.
-Instale as dependências:
+- **Navegue até o diretório do projeto**.
+- **Instale as dependências**:
 (npm install)
-Execute o projeto:
+- **Execute o projeto**:
 (npm start)
-A aplicação estará disponível em http://localhost:3000.
+- **A aplicação estará disponível em http://localhost:3000**.
 
 
