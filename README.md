@@ -11,13 +11,13 @@ Esse projeto é uma amostra do quanto estou empolgada para fazer parte de uma em
 - **Status das Tarefas**: As tarefas podem ser marcadas como **Pendente**, **Em Andamento** ou **Concluída** com um simples clique, permitindo um fácil acompanhamento do progresso.
 - **Notificação de Prazos**: Notificações visuais para tarefas que estão perto de seu prazo de conclusão, ajudando a manter o controle.
 - **Filtragem Avançada**: Filtre as tarefas de acordo com seu **status** (Todas, Pendente, Em Andamento, Concluída), permitindo uma visualização mais organizada.
-- **Interface Responsiva e Intuitiva**: A interface é totalmente responsiva.
+- **Interface Responsiva e Intuitiva**: A interface é responsiva.
 - **Design Moderno**: Utilização de design simples e moderno com uma paleta de cores como as da empresa, melhorando a usabilidade e a interação.
 
 ## Tecnologias Utilizadas:
 
-- **React.js**: Biblioteca JavaScript de código aberto para criar interfaces de usuário interativas e dinâmicas, permitindo um desenvolvimento ágil e modular.
-- **CSS**: Estilização customizada para garantir uma interface visualmente agradável e responsiva.
+- **React.js**: Biblioteca JavaScript de código aberto para criar interfaces de usuário interativas e dinâmicas, um desenvolvimento ágil e modular.
+- **CSS**: Estilização customizada para garantir uma interface criativa.
 - **React Hooks**: `useState`, `useEffect` para gerenciar o estado e os ciclos de vida da aplicação de forma eficiente.
 
 ## Instalação
