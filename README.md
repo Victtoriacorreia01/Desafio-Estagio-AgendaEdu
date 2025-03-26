@@ -16,10 +16,9 @@ Esse projeto é uma amostra do quanto estou empolgada para fazer parte de uma em
 
 ## Tecnologias Utilizadas:
 
-- **React.js**: Biblioteca JavaScript de código aberto para criar interfaces de usuário interativas e dinâmicas, um desenvolvimento ágil e modular.
-- **CSS**: Estilização customizada para garantir uma interface criativa.
-- **React Hooks**: `useState`, `useEffect` para gerenciar o estado e os ciclos de vida da aplicação de forma eficiente.
-
+- **React.js**
+- **CSS**
+- **JavaScript**
 ## Instalação
 Siga os passos abaixo para rodar o projeto em seu ambiente local:
 
