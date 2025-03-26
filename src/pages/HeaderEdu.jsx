@@ -1,4 +1,4 @@
-import Logo from "../../assets/LogoAgendaedu.png"
+import Logo from "../assets/LogoAgendaedu.png"
 import React from "react";
 
 const HeaderEdu = () => {
